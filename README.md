@@ -1,0 +1,1 @@
+# cant-run-command-on-Vscode-terminal
